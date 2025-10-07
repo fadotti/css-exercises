@@ -6,7 +6,7 @@
 .container {
   text-align: center;
   display: grid;
-  grid-template: 70px 50px 700px 50px / 300px 1200px;
+  grid-template: 70px 50px 750px 50px / 300px 1200px;
   /* grid-template: 70fr 50fr 700fr 50fr / 300fr 1200fr; */
   gap: 4px;
 }
